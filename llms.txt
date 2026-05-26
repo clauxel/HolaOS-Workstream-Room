@@ -1,0 +1,11 @@
+# HolaOS Workstream Room
+
+HolaOS Workstream Room is a SaaS workspace for holaOS.
+
+Website: https://holaosworkstream.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: holaOS
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
